@@ -206,6 +206,7 @@ git reset --hard origin/main
 
     A faire sur une seule machine, en local :
 
+    - blabla
     - modifiez le README en ajoutant une description du projet
     - ajoutez le README à l’index (`git add README.md`)
     - faites un commit en local (`git commit -m 'Ajout description'`)
