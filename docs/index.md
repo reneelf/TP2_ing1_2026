@@ -2,7 +2,7 @@
 
 ![Logo Git](images/git-logo.svg)
 
-Bonjour!
+Bonzour!
 
 **Git est un VCS (Version Control System) ou logiciel de gestion de versions** qui est notamment pensé pour le travail collaboratif. Il offre la possibilité :
 
