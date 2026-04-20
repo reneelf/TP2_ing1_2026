@@ -138,6 +138,8 @@ Quelques commandes utiles pour la prise d’informations :
 - `git branch` liste les branches locales (l’étoile `*` affiche la branche de travail)
 - `git remote -v` affiche le nom et l’url des repository distants
 - `git lg --all` (commande personnalisée) affiche un arbre des commits et des branches
+coucou
+hellooo
 
 ### Ajouter/Supprimer dans l’index
 
