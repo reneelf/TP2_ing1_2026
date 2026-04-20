@@ -2,6 +2,8 @@
 
 ![Logo Git](images/git-logo.svg)
 
+Bonjour!
+
 **Git est un VCS (Version Control System) ou logiciel de gestion de versions** qui est notamment pensé pour le travail collaboratif. Il offre la possibilité :
 
 - de stocker des fichiers ailleurs que sur votre ordinateur ou une clé USB
@@ -208,6 +210,7 @@ git reset --hard origin/main
 
     A faire sur une seule machine, en local :
 
+    - blabla
     - modifiez le README en ajoutant une description du projet
     - ajoutez le README à l’index (`git add README.md`)
     - faites un commit en local (`git commit -m 'Ajout description'`)
